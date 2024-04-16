@@ -1,5 +1,6 @@
 # Chatbot Deployment with Flask and JavaScript
 
+![image](https://github.com/prashiljatakiya/NLP-chatbot/assets/92420541/3d60b5e8-09bf-4779-b90a-0287b6b0b39d)
 
 This gives 2 deployment options:
 - Deploy within Flask app with jinja2 template
